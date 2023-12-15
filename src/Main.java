@@ -4,6 +4,7 @@ public class Main {
         System.out.println("I hate dylan cha");
         // pusg
         System.out.println("i hate this guy");
+        System.out.println("Dylan chan more like dylan gonna be thirty and livinbg in a van");
     }
 
 }
