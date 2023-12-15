@@ -3,6 +3,7 @@ public class Main {
         System.out.println("hi :3");
         System.out.println("I hate dylan cha");
         // pusg
+        System.out.println("i hate this guy");
     }
 
 }
